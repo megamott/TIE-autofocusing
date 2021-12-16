@@ -1,3 +1,9 @@
+# data folders
+TIE/axial_derivative
+TIE/retrieved_phases
+propagation/propagated_fields
+generation/fields
+
 # .npy files
 *.npy
 
