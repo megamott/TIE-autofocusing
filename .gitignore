@@ -2,7 +2,7 @@
 TIE/axial_derivative
 TIE/retrieved_phases
 propagation/propagated_fields
-generation/fields
+generation/BMSTU_image_phase/fields
 
 # .npy files
 *.npy
