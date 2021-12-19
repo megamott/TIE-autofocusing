@@ -4,7 +4,7 @@ from typing import Tuple, Optional, List
 from numpy.fft import fftfreq, fft2, ifft2
 from abc import ABC, abstractmethod
 
-from finite_difference import central_finite_difference
+from miscellaneous.finite_difference import central_finite_difference
 
 
 class TIESolver(ABC):
