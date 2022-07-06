@@ -1,4 +1,7 @@
-from propagator import angular_spectrum_band_limited
+from miscellaneous.optics.propagator import(
+    angular_spectrum_band_limited_1d,
+    angular_spectrum_band_limited_2d
+)
 from .functions import (
     rect_1d,
     rect_2d,
